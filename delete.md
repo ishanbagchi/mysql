@@ -1,0 +1,3 @@
+-   DELETE all 4 year old cats
+-   DELETE cats whose age is the same as their cat_id
+-   DELETE all cats 🙀
